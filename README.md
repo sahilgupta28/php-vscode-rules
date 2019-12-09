@@ -7,9 +7,10 @@
 For more details [click here](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 
 ## Install PHP CS Fixer by junstyle extension in Vscode
-1. Press <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>x</kbd>
-2. Search  `PHP CS Fixer  by junstyle`
-3. Click on install
+1. Open Vscode.
+2. Press <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>x</kbd>
+3. Search  `PHP CS Fixer  by junstyle`
+4. Click on install
 
 ## Change settings as per coding guidelines
 1. `cd /.vscode`

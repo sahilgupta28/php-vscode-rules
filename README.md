@@ -1,4 +1,4 @@
-# Vscode PHP CS Fixer by junstyle ([Phpcs](https://github.com/junstyle/vscode-php-cs-fixer))
+# Vscode PHP CS Fixer by junstyle ([vscode-php-cs-fixer](https://github.com/junstyle/vscode-php-cs-fixer))
 
 ## Install PHP CS-Fixer (ubuntu)
 `wget https://cs.symfony.com/download/php-cs-fixer-v2.phar -O php-cs-fixer`

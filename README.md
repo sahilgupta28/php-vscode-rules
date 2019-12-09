@@ -14,7 +14,7 @@ For more details [click here](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 ## Change settings as per coding guidelines
 1. `cd /.vscode`
 2. `mkdir custom-settings`
-3. Download php_cs file from [here](#).
+3. Download php_cs file from [here](https://github.com/sahilgupta-ucreate/php-vscode-rules/blob/master/php_cs).
 4. `cp path/to/php_cs path/to/.vscode/custom-settings/.php_cs`
 5. Run command `pwd` and copy path.
 6. Open Your IDE and go to extension settings > Configure Extension Settings

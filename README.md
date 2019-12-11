@@ -2,7 +2,9 @@
 
 ## Install PHP CS-Fixer (ubuntu)
 `wget https://cs.symfony.com/download/php-cs-fixer-v2.phar -O php-cs-fixer`
+
 `sudo chmod a+x php-cs-fixer`
+
 `sudo mv php-cs-fixer /usr/local/bin/php-cs-fixer`
 
 For more details [click here](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
